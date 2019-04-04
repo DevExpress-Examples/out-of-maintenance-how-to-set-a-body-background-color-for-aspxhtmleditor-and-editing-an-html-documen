@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 * [GenerateDocument.aspx](./CS/WebSite/GenerateDocument.aspx) (VB: [GenerateDocument.aspx](./VB/WebSite/GenerateDocument.aspx))
-* [GenerateDocument.aspx.cs](./CS/WebSite/GenerateDocument.aspx.cs) (VB: [GenerateDocument.aspx](./VB/WebSite/GenerateDocument.aspx))
+* [GenerateDocument.aspx.cs](./CS/WebSite/GenerateDocument.aspx.cs) (VB: [GenerateDocument.aspx.vb](./VB/WebSite/GenerateDocument.aspx.vb))
 <!-- default file list end -->
 # How to set a body background color for ASPxHtmlEditor and editing an Html document
 
