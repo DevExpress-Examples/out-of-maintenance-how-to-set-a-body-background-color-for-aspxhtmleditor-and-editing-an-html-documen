@@ -7,6 +7,9 @@
 * [GenerateDocument.aspx.cs](./CS/WebSite/GenerateDocument.aspx.cs) (VB: [GenerateDocument.aspx.vb](./VB/WebSite/GenerateDocument.aspx.vb))
 <!-- default file list end -->
 # How to set a body background color for ASPxHtmlEditor and editing an Html document
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3462/)**
+<!-- run online end -->
 
 
 <p>Currently, ASPxHtmlEditor does not allow editing the entire HTML document. It operates only on the <body> content. </p><br />
